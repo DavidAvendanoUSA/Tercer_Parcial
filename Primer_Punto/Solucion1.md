@@ -1,5 +1,5 @@
-# 1. Usando el paradigma de concurrencia y calculo PI, diseñe una solución que realice la regresión lineal. (NOTA: es el diseño no la implementación. Sea muy detallista con este diseño)
 
+# 1. Usando el paradigma de concurrencia y calculo PI, diseñe una solución que realice la regresión lineal. (NOTA: es el diseño no la implementación. Sea muy detallista con este diseño)
 ## Solución: 
 ### Pseudocódigo: 
  ```bash
