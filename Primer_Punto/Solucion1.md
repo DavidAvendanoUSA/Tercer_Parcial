@@ -2,7 +2,9 @@
 # 1. Usando el paradigma de concurrencia y calculo PI, diseñe una solución que realice la regresión lineal. (NOTA: es el diseño no la implementación. Sea muy detallista con este diseño)
 ## Solución: 
 ### Pseudocódigo: 
- ```bash
+
+```
+ bash
 (ν datos_1, datos_2, ..., datos_N, grad, pedir_param, resp_param, actualizar_param, metrica, iniciar_epoca, fin, barrera, ok)
 (
   # Carga datos y reparte a los trabajadores
